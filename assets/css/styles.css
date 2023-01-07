@@ -67,8 +67,9 @@
 .card{
   width: 25%;
   padding: 2rem;
-  background-color: bisque;
+  background-color: steelblue;
   border-radius: 36px;
+  color: #FFF;
 }
 
 @media(max-width:800px){
